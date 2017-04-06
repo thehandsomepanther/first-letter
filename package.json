@@ -1,15 +1,14 @@
 {
   "name": "first-letter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get the first useful letter of a string",
   "repository": "https://github.com/thehandsomepanther/first-letter",
-  "license": "MIT",
+  "license": "ISC",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
   "author": "Josh Shi",
-  "license": "ISC",
   "dependencies": {
     "assert": "^1.4.1"
   }
