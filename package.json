@@ -1,6 +1,6 @@
 {
   "name": "first-letter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "get the first useful letter of a string",
   "repository": "https://github.com/thehandsomepanther/first-letter",
   "license": "ISC",
