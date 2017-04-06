@@ -1,0 +1,14 @@
+{
+  "name": "first-letter",
+  "version": "1.0.0",
+  "description": "get the first useful letter of a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Josh Shi",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1"
+  }
+}
