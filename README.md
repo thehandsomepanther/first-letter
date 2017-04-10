@@ -2,7 +2,12 @@
 
 Returns the first useful letter of the string. Ignores "A", "An", "The", and non-alphanumeric characters (including whitespace). Returns the first character of the original string if it is unable to find a useful letter.
 
-## Examples
+## install
+```
+npm install --save first-letter
+```
+
+## examples
 ```
 let fl = require('first-letter')
 fl("The First Letter of this String is 'F'") // => "F"
